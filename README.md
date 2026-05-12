@@ -1,7 +1,7 @@
-# ChronoForge
+# ChronoForge Dreamspell Calendar
 ## Digital Harmonic Time Engine
 
-ChronoForge is a culturally-aligned digital implementation of the 13-Moon Dreamspell harmonic calendar, synchronized with the Gregorian system and the authentic 260-day Tzolkin cycle.
+ChronoForge Dreamspell Calendar is a culturally-aligned digital implementation of the 13-Moon Dreamspell harmonic calendar, synchronized with the Gregorian system and the authentic 260-day Tzolkin cycle.
 
 This is **not a calendar app**. It is a time-shaping instrument that preserves the mathematical integrity, tonal structure, and cosmological framework of the original system.
 
